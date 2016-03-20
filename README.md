@@ -1,3 +1,3 @@
 # RichTeel
 
-GitHub Page
+View my [GitHub Page](http://richteel.github.io/).
